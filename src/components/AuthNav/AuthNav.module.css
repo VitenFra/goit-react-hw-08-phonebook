@@ -1,0 +1,21 @@
+.navList {
+    
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    
+}
+
+
+
+.navLink {
+    
+    text-decoration: none;
+    
+}
+
+.navLinkActive {
+    text-decoration: none;
+   color: #ffd700;
+}

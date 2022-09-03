@@ -1,0 +1,23 @@
+.navList {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  
+}
+
+.navListItem {
+  margin-right: 20px;
+  
+}
+
+.navLink {
+  text-decoration: none;
+  color: rgb(245, 248, 249);
+}
+
+.navLinkActive {
+  text-decoration: none;
+font-weight: 700;
+  color: #ffd700;
+}

@@ -1,0 +1,26 @@
+.item {
+  font-size: 25px;
+  display: flex;
+ 
+ 
+}
+
+
+
+.name {
+  font-size: 22px;
+  margin-right: 25px;
+}
+
+.button {
+  margin-left: 20px;
+}
+
+.contactContainer {
+  margin-left: 20px;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
